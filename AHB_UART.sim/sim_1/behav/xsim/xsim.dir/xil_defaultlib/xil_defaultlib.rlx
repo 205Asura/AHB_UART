@@ -1,0 +1,13 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+D:/Source Code/Verilog Source/AHB_UART/AHB_UART.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+D:/Source Code/Verilog Source/AHB_UART/AHB_UART.srcs/sim_1/new/UART_tb.v,1728208128,verilog,,,,UART_tb,,,,,,,,
+D:/Source Code/Verilog Source/AHB_UART/AHB_UART.srcs/sim_1/new/receiver_tb.v,1728189084,verilog,,,,receiver_tb,,,,,,,,
+D:/Source Code/Verilog Source/AHB_UART/AHB_UART.srcs/sim_1/new/transmitter_tb.v,1728122745,verilog,,,,transmitter_tb,,,,,,,,
+D:/Source Code/Verilog Source/AHB_UART/AHB_UART.srcs/sources_1/new/DFF.v,1728201676,verilog,,D:/Source Code/Verilog Source/AHB_UART/AHB_UART.srcs/sources_1/new/UART.v,,DFF,,,,,,,,
+D:/Source Code/Verilog Source/AHB_UART/AHB_UART.srcs/sources_1/new/UART.v,1728202314,verilog,,D:/Source Code/Verilog Source/project_2/project_2.srcs/sources_1/new/fifo.v,,UART,,,,,,,,
+D:/Source Code/Verilog Source/AHB_UART/AHB_UART.srcs/sources_1/new/fifo.v,1728187082,verilog,,D:/Source Code/Verilog Source/AHB_UART/AHB_UART.srcs/sim_1/imports/new/fifo_tb.v,,fifo,,,,,,,,
+D:/Source Code/Verilog Source/AHB_UART/AHB_UART.srcs/sources_1/new/receiver.v,1731832822,verilog,,D:/Source Code/Verilog Source/AHB_UART/AHB_UART.srcs/sim_1/new/receiver_tb.v,,receiver,,,,,,,,
+D:/Source Code/Verilog Source/AHB_UART/AHB_UART.srcs/sources_1/new/transmitter.v,1728204729,verilog,,D:/Source Code/Verilog Source/AHB_UART/AHB_UART.srcs/sim_1/new/UART_tb.v,,transmitter,,,,,,,,
